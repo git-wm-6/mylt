@@ -1,3 +1,3 @@
 #/bin/bash
 echo "helloword"
-ls /
+6666
